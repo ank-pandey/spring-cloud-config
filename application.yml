@@ -11,9 +11,9 @@ spring:
     #username: root 
     #password: srivatsan
     #driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:h2:mem:testdb
+    url: jdbc:h2:mem:test
     username: sa
-    password: 
+    password: password
     driver-class-name: org.h2.Driver
     
   jpa:
